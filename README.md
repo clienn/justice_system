@@ -1,4 +1,6 @@
 <pre>
+SAMPLE USAGE:
+    
 // kp20 and kp22 are the same
 generateNotice(
     "docx/kp22.docx",
